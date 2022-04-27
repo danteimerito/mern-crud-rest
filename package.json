@@ -1,6 +1,6 @@
 {
   "name": "mern-crud",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Goalsetter app from Traversy Tutorial",
   "main": "server.js",
   "scripts": {
